@@ -1,1 +1,2 @@
-Una Calculadora Simple 
+Un Generador De Contraseñas Simple
+A Password Generator
